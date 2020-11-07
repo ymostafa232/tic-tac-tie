@@ -1,5 +1,3 @@
-#a tic tac tie program
-# i tried to make it so simple to  beginner to understand and for all programmers
 X = 'X'
 O = 'O'
 TIE = 'TIE'
